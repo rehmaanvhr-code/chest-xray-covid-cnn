@@ -1,0 +1,19 @@
+{
+  "n_train": 352,
+  "n_val": 45,
+  "n_test": 138,
+  "baseline_logreg_auc": 0.7703794369645043,
+  "cnn_test_auc": 0.762545899632803,
+  "cnn_test_f1": 0.806282722513089,
+  "confusion_matrix": [
+    [
+      24,
+      19
+    ],
+    [
+      18,
+      77
+    ]
+  ],
+  "best_val_auc": 0.7921810699588477
+}
